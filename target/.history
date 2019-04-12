@@ -6,3 +6,6 @@ compile
 run
 compile
 run
+compile\
+compile
+run
